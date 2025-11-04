@@ -1,6 +1,0 @@
-artifacts:
-  data_ingestion:
-    raw_data_path: data/german_credit_data.csv
-  model_training:
-    preprocessor_path: artifacts/preprocessor.joblib
-    trained_model_path: artifacts/best_xgb_final.joblib" 

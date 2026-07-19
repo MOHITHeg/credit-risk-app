@@ -1,4 +1,4 @@
-# German Credit Risk Prediction
+# Credit Risk Prediction
 
 This project is a complete machine learning pipeline to predict credit risk using the German Credit Risk dataset. The goal is to build a reliable and balanced classification model that can identify 'good' (low risk) and 'bad' (high risk) credit applicants.
 
